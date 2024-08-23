@@ -1,0 +1,133 @@
+.header {
+  text-align: center;
+}
+
+.blog-post, h2 {
+  color: red;
+}
+
+.blog-post1 .h1 {
+  text-align: center;
+  color: blue;
+}
+.blog-post1 .p {
+  font-size: 20px;
+}
+
+#square {
+  width: 50px;
+  height: 50px;
+  background-color: red;
+}
+
+#rect-a {
+  width: 100px;
+  height: 50px;
+  background-color: blue;
+}
+
+#rect-b {
+  width: 50px;
+  height: 100px;
+  background-color: orange;
+}
+
+#box {
+  width: 150px;
+  height: 150px;
+  background-color: red;
+  border: 3px solid black;
+}
+
+.text-1 {
+  font-size: 15px;
+}
+
+.text-2 {
+  font-size: 30px;
+}
+
+.text-3 {
+  font-size: 45px;
+}
+
+.text-4 {
+  font-size: 60px;
+}
+
+.text-5 {
+  font-size: 75px;
+}
+
+.blue-bg {
+  background-color: blue;
+}
+
+.black-bg {
+  background-color: black;
+}
+
+.red-bg {
+  background-color: red;
+}
+
+div {
+  height: 200px;
+  width: 200px;
+}
+
+.texti-1 {
+  font-size: 15px;
+}
+
+.texti-2 {
+  font-size: 30px;
+}
+
+.texti-3 {
+  font-size: 45px;
+}
+
+.texti-4 {
+  font-size: 60px;
+}
+
+.texti-5 {
+  font-size: 75px;
+}
+
+.texti-6 {
+  font-size: 90px;
+}
+
+.texti-7 {
+  font-size: 105px;
+}
+
+.texti-8 {
+  font-size: 120px;
+}
+
+.texti-9 {
+  font-size: 135px;
+}
+
+.texti-10 {
+  font-size: 150px;
+}
+
+.h3 {
+  text-align: center;
+}
+
+.info, .info-important {
+  width: 200px;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+
+.info-important {
+  background-color: magenta;
+}
+
+/*# sourceMappingURL=styles.css.map */
